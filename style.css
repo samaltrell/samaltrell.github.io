@@ -1,0 +1,47 @@
+html {
+	background-color: #cc0001;
+	font-size: 12pt;
+}
+body {
+	background-color: white;
+	margin: 0;
+}
+header {
+	background: no-repeat;
+	background-color: #cc0001;
+	background-position: top right;
+	padding: 1rem 1rem 1rem 2rem;
+}
+header b {
+	font-size: 36pt;
+	margin: 0;
+	padding: 0;
+}
+header i {
+	font-size: 16pt;
+}
+nav {
+	padding: 0.75rem 2rem;
+	background-color: #ddbbbb;
+}
+nav a, footer a {
+	color: black;
+}
+nav a {
+	padding-right: 2rem;
+}
+article {
+	max-width: 40rem;
+	padding: 1rem 2rem;
+}
+footer {
+	padding: 0.75rem 2rem;
+	background-color: #ddbbbb;
+}
+
+h2 {
+	font-size: 1.25rem;
+}
+h3 {
+	font-size: 1.12rem;
+}
